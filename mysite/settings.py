@@ -25,7 +25,7 @@ SECRET_KEY = 'u#dzi@34^q9l@myleah-983yo4_&-(rc#5w*e0n6o8sy(4b*wy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['noemic.pythonanywhere.com']
 
 
 # Application definition
